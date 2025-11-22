@@ -5,6 +5,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <!-- android:usesCleartextTraffic="true" to allow for non-secure network request  -->
+    <!-- not good practice -->
 
     <application
         android:usesCleartextTraffic="true"
